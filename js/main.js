@@ -94,7 +94,7 @@ var cartona=`
             <p class="text-primary">${currentArr.condition.text}</p>
         </div>
         <div class="card-footer mt-5 ps-2 ">
-            <span><img src="image/icon-umberella@2x.png" class="img-icon" alt=""> ${currentArr.wind_degree}%</span>
+            <span><img src="image/icon-umberella@2x.png" class="img-icon" alt=""> ${currentArr.wind_degree}</span>
             <span class="px-3"><img src="image/icon-wind@2x.png" class="img-icon" alt=""> ${currentArr.wind_kph}Km/h</span>
             <span><img src="image/icon-compass@2x.png" alt="" class="img-icon"> ${currentArr.wind_dir}</span>
         </div>
